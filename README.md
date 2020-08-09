@@ -1,6 +1,4 @@
-# C
-
-A Virtual File System program in C. 
+# A Virtual File System program in C. 
 
 A variety of changes will be made to this virtual system.
 
