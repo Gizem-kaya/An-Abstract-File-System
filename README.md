@@ -1,7 +1,5 @@
 # A Virtual File System program in C. 
 
-A variety of changes will be made to this virtual system.
-
 The aim of the program is practicing on dynamic memory allocation. 
 I used realloc and malloc functions but you can change the functions as you want. 
 
